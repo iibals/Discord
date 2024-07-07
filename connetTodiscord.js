@@ -1,0 +1,2 @@
+const { Client, GatewayIntentBits, PermissionFlagsBits, PermissionsBitField } = require('discord.js'); // Write npm install disrord.js and json packegs
+//  GatewayIntentBits, PermissionFlagsBits, PermissionsBitField : For use it to all projects
