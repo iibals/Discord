@@ -1,4 +1,4 @@
-// This codes is what your bot allows to do 
+// This codes is what your bot allows to do
 
 const client = new Client({
     intents: [
